@@ -1,0 +1,40 @@
+.container {
+  position: relative;
+  border: green solid;
+  padding: 0px
+}
+
+nav {
+  position: absolute;
+  left: 0px;
+  width: 25%;
+  border: solid deeppink;
+  padding: 0px;
+  margin: 0px
+}
+
+section {
+  margin-left:25%;
+  border: yellow solid;
+  padding: 15px;
+  word-wrap: break-word;
+
+
+}
+footer {
+  position: fixed;
+  bottom:0;
+  left:0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+  background-color: aqua;
+}
+body {
+  margin-bottom: 120px;
+}
+
+.Second {
+  background-color: lightgray;
+  word-wrap: break-word;
+}

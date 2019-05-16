@@ -1,0 +1,44 @@
+.back {
+  position: absolute;
+  background-color: seagreen;
+  width: 100%;
+  height: 100%
+}
+.container {
+  vertical-align: middle;
+  background-color:#dce4ec;
+  position: relative;
+  top: 50%;
+  padding: 10px;
+  width: 390px;
+  height:250px;
+  box-shadow: 10px 10px 10px black;
+}
+.content {
+  margin: 10px;
+}
+button {
+  margin-left: 55px;
+  width: 240px;
+  height: 50px;
+  color: white;
+  background-color: green;
+  border: 2px solid #dce4ec;
+
+}
+input {
+  margin-left: 55px;
+  width: 240px;
+  height: 50px;
+  background-color: floralwhite;
+  box-shadow: none;
+  border: 2px solid #dce4ec;
+
+}
+a {
+  color: green;
+}
+p {
+  margin-left: 55px;
+  width: 250px;
+}
